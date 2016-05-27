@@ -1,0 +1,9 @@
+Queries:
+
+1. Does the Tiny Web given in the first paper actually corresponds to the PageRank values given alongwith? I tried making the same graph but the igraph.pagerank is giving different values!
+
+2. Can we use SimHash library for the simhash API or do we have to implement the SimHash ourselves?
+
+3. The L(G') funtoin in page 10 same as the phi(G) function?
+
+4. In the equation 4, the denominator includes the given V or not? If not then how come FC -> 1.29 * 0.5
